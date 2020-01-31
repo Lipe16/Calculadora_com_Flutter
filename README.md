@@ -1,6 +1,8 @@
 # calculadora
 
-A new Flutter project.
+## Calculadora feita com Flutter, construinda seguindo a mega aula da [cod3er](https://www.youtube.com/watch?v=jyjdXFsQoYw)
+
+![calculadora](https://github.com/Lipe16/Calculadora_com_Flutter/blob/master/image.jpg)
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 # calculadora
 
-## Calculadora feita com Flutter, construida seguindo a mega aula da [cod3er](https://www.youtube.com/watch?v=jyjdXFsQoYw)
+## Calculadora feita com Flutter, construída seguindo a mega aula da [cod3er](https://www.youtube.com/watch?v=jyjdXFsQoYw)
 
 ![calculadora](https://github.com/Lipe16/Calculadora_com_Flutter/blob/master/image.jpg)
 
